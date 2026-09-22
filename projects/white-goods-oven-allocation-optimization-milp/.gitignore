@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+.vscode/
+.idea/
+.DS_Store
+
+# Generated optimization outputs
+allocation_results.csv
+country_service_levels.csv
+model_statistics.csv
+regional_statistics.csv
+oven_allocation_report.xlsx
+
+# Solver artifacts
+*.lp
+*.mps
+*.sol

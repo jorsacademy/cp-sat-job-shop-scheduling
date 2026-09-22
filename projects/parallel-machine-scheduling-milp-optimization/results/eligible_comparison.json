@@ -1,0 +1,26 @@
+[
+  {
+    "seed": 42,
+    "greedy_makespan": 137.0,
+    "optimal_makespan": 115.0,
+    "gap_percent": 19.130434782608695,
+    "greedy_seconds": 4.279200038581621e-05,
+    "milp_seconds": 0.005879375001313747
+  },
+  {
+    "seed": 43,
+    "greedy_makespan": 168.0,
+    "optimal_makespan": 131.0,
+    "gap_percent": 28.244274809160295,
+    "greedy_seconds": 3.8333000702550635e-05,
+    "milp_seconds": 0.004958208000971354
+  },
+  {
+    "seed": 44,
+    "greedy_makespan": 156.0,
+    "optimal_makespan": 132.0,
+    "gap_percent": 18.181818181818187,
+    "greedy_seconds": 2.9041000743745826e-05,
+    "milp_seconds": 0.005145166000147583
+  }
+]

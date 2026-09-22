@@ -1,0 +1,19 @@
+task_id,task_name,task_time_seconds
+T01,Base fixture positioning,4
+T02,Power module inspection,7
+T03,Harness preparation,5
+T04,Rear bracket fastening,6
+T05,Control module mounting,3
+T06,Main harness routing,8
+T07,Bracket torque verification,4
+T08,Signal connector installation,5
+T09,Power connector installation,6
+T10,Control module connection,7
+T11,Harness clip fastening,3
+T12,Firmware identification scan,5
+T13,Electrical continuity check,4
+T14,Functional subsystem test,6
+T15,Protective cover installation,5
+T16,Traceability label application,4
+T17,Final inspection,7
+T18,Transfer to main line,3
