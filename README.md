@@ -1,4 +1,23 @@
-# CP-SAT Job Shop Scheduling
+# Classical Scheduling Optimization
+
+<!-- portfolio-umbrella:start -->
+## Portfolio role
+
+This repository is the primary umbrella repository for this Jors Academy research area. Related projects have been consolidated under `projects/` so the methods, implementations, experiments, and case studies can be maintained and explored from one place.
+
+### Included projects
+
+- [`adaptive-production-scheduling-python`](projects/adaptive-production-scheduling-python/)
+- [`assembly-line-balancing-optimizer-salbp`](projects/assembly-line-balancing-optimizer-salbp/)
+- [`energy-aware-production-scheduling-ga-java`](projects/energy-aware-production-scheduling-ga-java/)
+- [`flexible-manufacturing-scheduling-genetic-algorithm`](projects/flexible-manufacturing-scheduling-genetic-algorithm/)
+- [`paint-shop-scheduling-genetic-algorithm`](projects/paint-shop-scheduling-genetic-algorithm/)
+- [`parallel-machine-scheduling-milp-optimization`](projects/parallel-machine-scheduling-milp-optimization/)
+- [`resource-constrained-project-scheduling-pulp`](projects/resource-constrained-project-scheduling-pulp/)
+- [`white-goods-oven-allocation-optimization-milp`](projects/white-goods-oven-allocation-optimization-milp/)
+
+Each consolidated project keeps its own files and a `SOURCE_REPOSITORY.md` provenance record. The snapshot preserves the source repository's default-branch files at consolidation time; repository-level history and metadata remain separate from the snapshot.
+<!-- portfolio-umbrella:end -->
 
 A reproducible Operations Research implementation of job-shop scheduling with Google OR-Tools CP-SAT. The repository focuses on interval variables, machine disjunctive constraints, job precedences, release dates, due-date penalties, solver bounds, schedule validation, and comparison with a deterministic feasible baseline.
 
